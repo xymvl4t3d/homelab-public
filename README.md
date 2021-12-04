@@ -2,7 +2,7 @@
 
 Welcome to my homelab. (work in progress)
 
-![alt text](https://github.com/xymvl4t3d/homelab-public/blob/main/home-network-v1.png?raw=true)
+![alt text](https://github.com/xymvl4t3d/homelab-public/blob/main/network-v2.png?raw=true)
 
 # Current Inventory
 
